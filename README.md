@@ -11,7 +11,7 @@ Welcome to the **AI-Powered Study Assistant**, a platform designed to revolution
    
    ![Demo Video Thumbnail](images/Screenshot%202024-10-27%20160417.png) 
 
-   [Watch the Demo Video on YouTube](https://youtu.be/CbmNO4IuqK8)
+   [Watch the Demo Video on YouTube](https://www.youtube.com/watch?v=uzgnRwm4teY)
 
 ---
 
